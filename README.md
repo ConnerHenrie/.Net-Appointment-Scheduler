@@ -1,1 +1,1 @@
-Created as a project for Software Engineering course to demnstrate profeciency with .net and C#
+Created as a project for Software Engineering course to demonstrate profeciency with .net and C#
